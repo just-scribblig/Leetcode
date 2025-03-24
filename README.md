@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -44,8 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
