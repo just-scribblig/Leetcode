@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/just-scribblig/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/just-scribblig/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
