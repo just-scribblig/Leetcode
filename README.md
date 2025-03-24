@@ -22,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
