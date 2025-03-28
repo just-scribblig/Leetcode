@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/just-scribblig/Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/just-scribblig/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/just-scribblig/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/just-scribblig/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
