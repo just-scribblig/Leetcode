@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
