@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
+| [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
+| [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/just-scribblig/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/just-scribblig/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
+| [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Sorting
