@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/just-scribblig/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/just-scribblig/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/just-scribblig/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/just-scribblig/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
 | ------- |
