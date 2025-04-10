@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/just-scribblig/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3396-valid-word](https://github.com/just-scribblig/Leetcode/tree/master/3396-valid-word) |
 ## Bit Manipulation
 |  |
 | ------- |
