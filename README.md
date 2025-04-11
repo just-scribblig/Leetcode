@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
+| [2998-count-symmetric-integers](https://github.com/just-scribblig/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/just-scribblig/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
