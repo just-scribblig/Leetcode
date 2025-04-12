@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
+| [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/just-scribblig/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -110,5 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/just-scribblig/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
