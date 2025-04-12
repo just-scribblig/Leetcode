@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2998-count-symmetric-integers](https://github.com/just-scribblig/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/just-scribblig/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/just-scribblig/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/just-scribblig/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
