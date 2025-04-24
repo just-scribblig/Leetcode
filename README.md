@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/just-scribblig/Leetcode/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
