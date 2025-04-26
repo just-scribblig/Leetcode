@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/just-scribblig/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/just-scribblig/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/just-scribblig/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/just-scribblig/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3396-valid-word](https://github.com/just-scribblig/Leetcode/tree/master/3396-valid-word) |
