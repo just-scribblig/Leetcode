@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/just-scribblig/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2998-count-symmetric-integers](https://github.com/just-scribblig/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/just-scribblig/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/just-scribblig/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Trie
 |  |
