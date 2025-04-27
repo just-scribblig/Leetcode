@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/just-scribblig/Leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/just-scribblig/Leetcode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/just-scribblig/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/just-scribblig/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/just-scribblig/Leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/just-scribblig/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/just-scribblig/Leetcode/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/just-scribblig/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/just-scribblig/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
