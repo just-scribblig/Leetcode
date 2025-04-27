@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/just-scribblig/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/just-scribblig/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/just-scribblig/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/just-scribblig/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/just-scribblig/Leetcode/tree/master/1677-matrix-diagonal-sum) |
