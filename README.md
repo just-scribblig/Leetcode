@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/just-scribblig/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/just-scribblig/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2058-concatenation-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/just-scribblig/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/just-scribblig/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/just-scribblig/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -172,4 +175,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/just-scribblig/Leetcode/tree/master/0179-largest-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
