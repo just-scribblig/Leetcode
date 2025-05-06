@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/just-scribblig/Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
+| [0633-sum-of-square-numbers](https://github.com/just-scribblig/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/just-scribblig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2083-three-divisors](https://github.com/just-scribblig/Leetcode/tree/master/2083-three-divisors) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/just-scribblig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/just-scribblig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/just-scribblig/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/just-scribblig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/just-scribblig/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/just-scribblig/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/just-scribblig/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
