@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/just-scribblig/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/just-scribblig/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/just-scribblig/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/just-scribblig/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/just-scribblig/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/just-scribblig/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/just-scribblig/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/just-scribblig/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/just-scribblig/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/just-scribblig/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/just-scribblig/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
 | ------- |
