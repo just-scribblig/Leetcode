@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/just-scribblig/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/just-scribblig/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/just-scribblig/Leetcode/tree/master/0500-keyboard-row) |
 | [0777-toeplitz-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/just-scribblig/Leetcode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/just-scribblig/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/just-scribblig/Leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/just-scribblig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/just-scribblig/Leetcode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
