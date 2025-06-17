@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/just-scribblig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/just-scribblig/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/just-scribblig/Leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/just-scribblig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2551-apply-operations-to-an-array](https://github.com/just-scribblig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/just-scribblig/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/just-scribblig/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/just-scribblig/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0768-partition-labels](https://github.com/just-scribblig/Leetcode/tree/master/0768-partition-labels) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/just-scribblig/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/just-scribblig/Leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/just-scribblig/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/just-scribblig/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0768-partition-labels](https://github.com/just-scribblig/Leetcode/tree/master/0768-partition-labels) |
 | [1044-find-common-characters](https://github.com/just-scribblig/Leetcode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/just-scribblig/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/just-scribblig/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/just-scribblig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/just-scribblig/Leetcode/tree/master/0179-largest-number) |
+| [0768-partition-labels](https://github.com/just-scribblig/Leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/just-scribblig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/just-scribblig/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Game Theory
