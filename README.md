@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/just-scribblig/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/just-scribblig/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/just-scribblig/Leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/just-scribblig/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/just-scribblig/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/just-scribblig/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/just-scribblig/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/just-scribblig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/just-scribblig/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/just-scribblig/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/just-scribblig/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/just-scribblig/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/just-scribblig/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/just-scribblig/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/just-scribblig/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/just-scribblig/Leetcode/tree/master/0898-transpose-matrix) |
